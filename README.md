@@ -10,9 +10,7 @@
 Nuomanck/Nuomanck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-هناك العديد من الأخطاء في الشيفرة التي قدمتها تجعلها غير صالحة للتنفيذ. سأقوم بتصحيح الشيفرة لجعلها تعمل بشكل صحيح.
 
-النسخة المُصححة:
 
 <!DOCTYPE html>
 <html lang="ar">
@@ -133,20 +131,7 @@ You can click the Preview link to take a look at your changes.
 
 </html>
 
-الملاحظات:
-
-1. أضفت علامات الإغلاق المفقودة للعديد من العناصر.
-
-
-2. صححت القيم غير المكتملة لبعض السمات مثل meta و style.
-
-
-3. استخدمت الألوان والقواعد التنسيقية المناسبة لجعل الصفحة أكثر جاذبية.
-
-
-4. وضعت المحتوى داخل عناصر HTML المناسبة (مثل div و section).
 
 
 
-انسخ الشيفرة المصححة واستخدمها. إذا احتجت إلى تحسين إضافي، لا تتردد في طلب ذلك!
 
